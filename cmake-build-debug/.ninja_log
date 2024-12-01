@@ -1,0 +1,6 @@
+# ninja log v6
+17	1056	7547770838707439	CMakeFiles/projectSFML.dir/main.cpp.obj	930f1767e92dbe80
+25	531	7547770838792507	CMakeFiles/projectSFML.dir/Algoritmos.cpp.obj	35e4f2778fac2f1d
+2621	3024	7546088394058782	projectSFML.exe	db0c57d959dfc04d
+15	967	7547771139616683	CMakeFiles/projectSFML.dir/SFML.cpp.obj	8c9c0f1572c79ae3
+7	85	7547776103501483	CMakeFiles/projectSFML.dir/binarySearch.cpp.obj	c232fc8810235fd3

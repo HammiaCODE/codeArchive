@@ -34,7 +34,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 32,
+				"line" : 30,
 				"parent" : 0
 			}
 		]
@@ -67,9 +67,7 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				15,
-				16
+				0
 			]
 		}
 	],
@@ -121,9 +119,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				15,
-				16
+				0
 			]
 		},
 		{
@@ -224,18 +220,6 @@
 			"backtrace" : 1,
 			"path" : "DIJKSTRA.h",
 			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "binarySearch.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "SFML.cpp",
-			"sourceGroupIndex" : 0
 		}
 	],
 	"type" : "EXECUTABLE"

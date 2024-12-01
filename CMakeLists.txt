@@ -24,9 +24,7 @@ add_executable(projectSFML main.cpp
         AVL.h
         DFS.h
         BFS.h
-        DIJKSTRA.h
-        binarySearch.cpp
-        SFML.cpp)
+        DIJKSTRA.h)
 
 # Link SFML libraries
 target_link_libraries(projectSFML sfml-system sfml-window sfml-graphics)

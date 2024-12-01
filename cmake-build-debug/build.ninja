@@ -56,20 +56,6 @@ build CMakeFiles/projectSFML.dir/main.cpp.obj: CXX_COMPILER__projectSFML_unscann
   OBJECT_DIR = CMakeFiles\projectSFML.dir
   OBJECT_FILE_DIR = CMakeFiles\projectSFML.dir
 
-build CMakeFiles/projectSFML.dir/binarySearch.cpp.obj: CXX_COMPILER__projectSFML_unscanned_Debug C$:/Users/hanes/Desktop/UNI$ HAM/SAGA$ DE$ C++/projectSFML/binarySearch.cpp || cmake_object_order_depends_target_projectSFML
-  DEP_FILE = CMakeFiles\projectSFML.dir\binarySearch.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -isystem "C:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit (1)/SFML-2.6.2/include"
-  OBJECT_DIR = CMakeFiles\projectSFML.dir
-  OBJECT_FILE_DIR = CMakeFiles\projectSFML.dir
-
-build CMakeFiles/projectSFML.dir/SFML.cpp.obj: CXX_COMPILER__projectSFML_unscanned_Debug C$:/Users/hanes/Desktop/UNI$ HAM/SAGA$ DE$ C++/projectSFML/SFML.cpp || cmake_object_order_depends_target_projectSFML
-  DEP_FILE = CMakeFiles\projectSFML.dir\SFML.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -isystem "C:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit (1)/SFML-2.6.2/include"
-  OBJECT_DIR = CMakeFiles\projectSFML.dir
-  OBJECT_FILE_DIR = CMakeFiles\projectSFML.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target projectSFML
@@ -78,7 +64,7 @@ build CMakeFiles/projectSFML.dir/SFML.cpp.obj: CXX_COMPILER__projectSFML_unscann
 #############################################
 # Link the executable projectSFML.exe
 
-build projectSFML.exe: CXX_EXECUTABLE_LINKER__projectSFML_Debug CMakeFiles/projectSFML.dir/main.cpp.obj CMakeFiles/projectSFML.dir/binarySearch.cpp.obj CMakeFiles/projectSFML.dir/SFML.cpp.obj | C$:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit$ (1)/SFML-2.6.2/lib/libsfml-graphics-d.a C$:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit$ (1)/SFML-2.6.2/lib/libsfml-window-d.a C$:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit$ (1)/SFML-2.6.2/lib/libsfml-system-d.a
+build projectSFML.exe: CXX_EXECUTABLE_LINKER__projectSFML_Debug CMakeFiles/projectSFML.dir/main.cpp.obj | C$:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit$ (1)/SFML-2.6.2/lib/libsfml-graphics-d.a C$:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit$ (1)/SFML-2.6.2/lib/libsfml-window-d.a C$:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit$ (1)/SFML-2.6.2/lib/libsfml-system-d.a
   FLAGS = -g
   LINK_LIBRARIES = "C:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit (1)/SFML-2.6.2/lib/libsfml-graphics-d.a"  "C:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit (1)/SFML-2.6.2/lib/libsfml-window-d.a"  "C:/Users/hanes/Desktop/SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit (1)/SFML-2.6.2/lib/libsfml-system-d.a"  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\projectSFML.dir
